@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">minharota</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="title_activity_menu_lateral">MenuLateral</string>
+
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Mapa</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string-array name="sections">
+        <item> Home </item>
+        <item> Mapa </item>
+    </string-array>
+    <string-array name="section_titles">
+        <item>Section T1</item>
+        <item>Section T2</item>
+        <item>Section T3</item>
+    </string-array>
+    <string-array name="sections_icons">
+        <item>@drawable/principal</item>
+        <item>@drawable/mapa</item>
+    </string-array>
+
+
+
+</resources>
